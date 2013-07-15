@@ -9,6 +9,13 @@ import java.io.FileOutputStream;
 
 import org.apache.commons.lang.SerializationUtils;
 
+/**
+ * This application shows how simple object serialization in Java may be using
+ * Apache Commons-Lang.
+ *
+ * @author Roland Kluge
+ *
+ */
 public class SerializationTutorial
 {
     public static void main(final String[] args)
